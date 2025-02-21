@@ -4,11 +4,18 @@ Damage detection plays a critical role in maintaining the structural integrity a
 # Architecture
 
 
+![image](https://github.com/user-attachments/assets/72225168-2d21-43d1-9756-fde52c595041)
 
 
 
 # Example Dataset images and results
+# RGB Dataset
 
+![image](https://github.com/user-attachments/assets/32335fb1-589c-48c4-93df-595db419f0ff)
+
+
+#Thermal Dataset
+![image](https://github.com/user-attachments/assets/5d7a13ec-af09-4d99-8de6-1d7a68d2b731)
 
 
 
