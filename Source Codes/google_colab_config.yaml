@@ -1,0 +1,8 @@
+path: '/content/data/Data' # dataset root dir
+train: /content/data/Data/images/train  # train images (relative to 'path')
+val: /content/data/Data/images/val  # val images (relative to 'path')
+test: /content/data/Data/images/test # test images (relative to 'path')
+
+names:
+  0: crack
+
