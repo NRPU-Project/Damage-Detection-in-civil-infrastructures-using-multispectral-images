@@ -18,6 +18,7 @@ Damage detection plays a critical role in maintaining the structural integrity a
 ![image](https://github.com/user-attachments/assets/5d7a13ec-af09-4d99-8de6-1d7a68d2b731)
 
 🔧 Setup Instructions (Google Colab + Google Drive)
+
 Step 1: Prepare Google Drive Folder
 
 Open your Google Drive.
