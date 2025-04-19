@@ -25,20 +25,26 @@ Damage detection plays a critical role in maintaining the structural integrity a
 
 **Step 1: Prepare Google Drive Folder**  
 - Open your [Google Drive](https://drive.google.com/).  
-- Create a new folder and name it (e.g., `YOLO`).
+- Create a new folder and name it (e.g., `CSP-CAS`).
 
 **Step 2: Upload Model Files**  
-- Download and upload YOLO model files.
+- Download and upload CSP-CAS model files.
 
 **Step 3: Upload YAML Configuration File**  
 - Upload a dataset YAML file with correct training/validation/test paths and class names.
 
 **Step 4: Upload Dataset**  
-- Upload your dataset (e.g., `data.zip`) containing images and annotations (in YOLO format).
+- Upload your dataset (e.g., `data.zip`) containing images and annotations.
 
 **Step 5: Create Output Folder**  
 - Inside your main folder, create a subfolder named `run` to store training results, weights, and logs.
+Sure! Here's a concise summary you can add to your GitHub repository:
 
+---
+
+### 🔍 Inference with Trained Model
+
+If you already have a trained model (weights saved in the `runs` folder), you can directly use it to test crack detection performance on new or test images. Simply load the weights and run the detection script on your desired test set to visualize and verify how effectively the model identifies cracks. This allows for quick validation without retraining the model.
 
 # License
 This project is licensed under the MIT License and is intended for research purposes only. Please cite this work if you use the code or dataset in your publications.
